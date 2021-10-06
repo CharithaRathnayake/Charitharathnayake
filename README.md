@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charitha Sewwandi</h1>
-<h3 align="center">Undergraduate at department of Computer Science and Engineering, University of Moratuwaf</h3>
+<h3 align="center">Undergraduate at Department of Computer Science and Engineering, University of Moratuwa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charitharathnayake&label=Profile%20views&color=0e75b6&style=flat" alt="charitharathnayake" /> </p>
 
